@@ -1,10 +1,10 @@
 const textConfig = {
   text1: "XIN CHÀO CHỊ NHI XINH ĐẸP",
   text2: "CLICK VÀO OK ĐỂ TĂNG ĐỘ ĐẸP GÁI HƠN",
-  text3: "CHỊ ĐÃ ĐÔNG Ý THA LỖI CHO EM RỒI ĐÚNG KHÔNG",
+  text3: "Không biết chị Nhi có thể tha lỗi cho em không?",
   text4: "Nếu không trả lời là đã tha thứ rồi nha :3",
   text5: "Không có tha được!",
-  text6: "Đương nhiên là đồng ý <3",
+  text6: "Có! Đương nhiên rồi <3",
   text7: "vui lòng nhập lời nhắn gửi để mình rút kinh nghiệm",
   text8: "Gửi <3",
   text9: "Khen chị Nhi xinh đẹp nhiều hơn nha!",
